@@ -101,8 +101,6 @@ span {
   display: flex;
   justify-content: space-around;
   align-content: center;
-  font-size: 6.5vw;
-  margin: 0px 0px;
 }
 
 .silver span, .red span{justify-content:center;  font-size: 7.5vw;}
